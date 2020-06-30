@@ -53,8 +53,11 @@ __中山大学, 硕士研究生 (科学学位)__
 
 ## Publications
 
-Ren CX, Li JZ, Ge P, Xu XL. Deep metric learning via subtype fuzzy clustering. Pattern Recognition. 2019 Jun 1;90:210-9.
+Ren CX, Li JZ, Ge P, Xu XL. Deep metric learning via subtype fuzzy clustering. 
 
-Li J, Ge P, Ren CX. A Sparse Substitute for Deconvolution Layers in GANs. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2018 Nov 23 (pp. 446-456). Springer, Cham
+Pattern Recognition. 2019 Jun 1;90:210-9.
+
+Li J, Ge P, Ren CX. A Sparse Substitute for Deconvolution Layers in GANs. 
+In Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2018 Nov 23 (pp. 446-456). 
 
 
